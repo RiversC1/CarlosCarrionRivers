@@ -1,0 +1,42 @@
+.input{
+    width: 250px;
+    padding: 0.7rem;
+    border: 1px solid rgba(214, 214, 214);
+    border-radius: 0.7rem;
+    outline: none;
+    font-size: 1rem;
+
+}
+
+.select{
+    padding: 0.7rem;
+    border: 1px solid rgba(214, 214, 214);
+    border-radius: 0.7rem;
+    outline: none;
+    font-size: 1rem;
+    -webkit-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    width: 270px;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/podcast-collection/100/caret-512.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.button{
+    width: 110px;
+    padding: 0.7rem;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: #65ca9a;
+    background: linear-gradient(#98e7c1, #65ca9a);
+    border: 1px solid #5bb187;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    color: white;
+}
+
+.button:hover{
+    -webkit-filter: brightness(110%);
+}
